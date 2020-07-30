@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "74131811022",
+    "firebase_url": "https://siginin-51bfd.firebaseio.com",
+    "project_id": "siginin-51bfd",
+    "storage_bucket": "siginin-51bfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74131811022:android:24ceccbac59b4af3ccbe9f",
+        "android_client_info": {
+          "package_name": "br.com.bmsrangeldev.google_signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74131811022-d4m272ig0pfmq771po99nkcftum6rv0n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.bmsrangeldev.google_signin",
+            "certificate_hash": "fcca5e34a439d031ffbe3f0c097a0720afc99bed"
+          }
+        },
+        {
+          "client_id": "74131811022-sd4csehmu4lod12i1f3ib1nmdnd6e0v0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeJPwyB5cuqxs18yStp-P21qKyqzMbhNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74131811022-sd4csehmu4lod12i1f3ib1nmdnd6e0v0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
